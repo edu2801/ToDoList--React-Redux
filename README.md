@@ -1,3 +1,3 @@
 ToDoList criada utilizando ReactJs e Redux;
 <br><br>
-Disponível em:
+Disponível em: https://todolistnice.netlify.app
