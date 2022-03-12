@@ -1,12 +1,12 @@
 
 export default class Item {
 
-    static lastId = 0;
-
     constructor(text) {
-        this.id = Item.lastId++;
+        this.id = Math.floor(Math.random() * 100000000);
         this.text = text;
         this.done = false;
 
     }
+
 };
+
